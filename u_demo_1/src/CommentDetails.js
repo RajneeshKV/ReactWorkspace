@@ -14,7 +14,7 @@ const CommentDetails = props => {
         <div className="metadata">
           <span className="date">{props.timeAgo}</span>
 
-          <span className="date">10:56 PLM</span>
+          <span className="date">10:56 AM</span>
         </div>
         <div className="text">{props.mycomment}</div>
       </div>
